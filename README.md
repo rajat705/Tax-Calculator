@@ -14,6 +14,7 @@
 
 
 
+
 ### Core Features
 
 - The tax calculation works based on this formula -
@@ -33,3 +34,13 @@
  <h3 align="center">
   <code> Rajat Nagar </code>
 </h3>
+
+<div style="display: flex; justify-content: center;">
+    <a href="https://www.linkedin.com/in/rajat-nagar/" style="margin: 0 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"></a> 
+    <a href="https://www.instagram.com/_rajatnagar_/" target="_blank" style="margin: 0 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"></a>
+    <a href="https://twitter.com/rajatnagarr" target="_blank" style="margin: 0 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="50" height="50"></a>
+</div>
+
+
+
+
