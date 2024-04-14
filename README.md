@@ -7,9 +7,8 @@
 ## Tech Stack
 `HTML`, `CSS`, `JavaScript`, `Bootstrap`
 
-<img width="814" alt="tax" src="https://github.com/rajat705/Tax-Calculator-/assets/107322135/cf9faa31-10d5-4e49-b298-961048d4738e">
 
-
+<img width="791" alt="input" src="https://github.com/rajat705/Tax-Calculator-/assets/107322135/e3f943cd-bebf-43a4-9ef5-70e497fc9399">
 <img width="814" alt="output" src="https://github.com/rajat705/Tax-Calculator-/assets/107322135/bf3e273b-0f68-4de9-9b73-ebbb3611a825">
 
 
@@ -35,11 +34,14 @@
   <code> Rajat Nagar </code>
 </h3>
 
-<div style="display: flex; justify-content: center;">
-    <a href="https://www.linkedin.com/in/rajat-nagar/" style="margin: 0 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"></a> 
-    <a href="https://www.instagram.com/_rajatnagar_/" target="_blank" style="margin: 0 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="50" height="50"></a>
-    <a href="https://twitter.com/rajatnagarr" target="_blank" style="margin: 0 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="50" height="50"></a>
-</div>
+
+ <div style="display: flex; justify-content: center; align-itmes: center">
+            <a href="mailto:rajatnagar7893@gmail.com" target="_blank" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="20" height="20"></a>
+            <a href="https://www.linkedin.com/in/rajat-nagar/" target="_blank" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"></a>
+            <a href="https://www.instagram.com/_rajatnagar_/" target="_blank" style="margin-right: 50px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20" height="20"></a>
+            <a href="https://twitter.com/rajatnagarr" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="20" height="20"></a>
+        </div>
+
 
 
 
